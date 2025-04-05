@@ -1,0 +1,23 @@
+body {
+    background-color: A0C878;
+}
+
+#main {
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 20px;
+    background-color: DDEB9D;
+    /* This is how we control size of the box - can also make it a percentage like 50% */
+    width: 300px;
+    /* This is how we add padding */
+    padding: 20px;
+    /* This is how you round your corners */
+    border-radius: 25px; 
+    /* This is how we center a box */
+    margin: auto;
+}
+
+button {
+    font-size: 20px;
+    font-family: Helvetica;
+}
