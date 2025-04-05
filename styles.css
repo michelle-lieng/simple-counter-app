@@ -1,5 +1,9 @@
 body {
     background-color: A0C878;
+    /* This is how we center a box */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #main {
@@ -13,8 +17,6 @@ body {
     padding: 20px;
     /* This is how you round your corners */
     border-radius: 25px; 
-    /* This is how we center a box */
-    margin: auto;
 }
 
 button {
